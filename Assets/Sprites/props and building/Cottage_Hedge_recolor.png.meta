@@ -1,0 +1,5110 @@
+fileFormatVersion: 2
+guid: 12c4b9fc219bfc74a96cda5b6179f4e8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412badd2dd931ed4092d4a87caec0c31
+      internalID: 588555325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049ce07e491d1b1419ab534a4e27ab48
+      internalID: 1672408117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cc9ea6fc4046c48a5a723213e32be0
+      internalID: 1487733648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfc834460154ce40adbbc78d9a17ee9
+      internalID: 881970188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f01b0bd567901448b232b0d1a332c4c
+      internalID: -737302758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23c43d98859be740938918495a309e9
+      internalID: 360689363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a245b2bd5bea045893010d79b22123
+      internalID: -148530860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727bfad03cd7e8a4797c33f4d95c936d
+      internalID: -599397218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2983fb822657c4196453048e4725a5
+      internalID: -256425020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda026fb8c7e16242954458c89e35014
+      internalID: 2147202299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc101a2763218646a3c10b028d3d6fa
+      internalID: -1181235558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aa1f9cf92faaf47bb3167428ac1463
+      internalID: 812988686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f91bb46db803546a42ad4faea531f8
+      internalID: -1431088832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_13
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b859b478282e81d498a0b9e52d54538e
+      internalID: 2028839410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_14
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddbeb721aa87884ea46b1aef5a741ff
+      internalID: -363641767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_15
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b21f4a910ea9e4ebce058bd4803634
+      internalID: 213532222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe37d392d5b12d0459a3e1eef62ac96f
+      internalID: 307823928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63f48496a739454cbe4aec6326efe55
+      internalID: -1902251398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897a16ae58abcf040a2e3966d1b5a2ed
+      internalID: 241859448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ee4cc881101e94b8e16404e8e64938
+      internalID: -336185286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8044a0ab3aeb14289127541b0b2e2a
+      internalID: 16935825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d9d407391dc064e9f1d80370561761
+      internalID: 626159155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504eaa74251917044a055b887fb4b0c0
+      internalID: -2072053184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350d35437a1edf54e9bfbbf155e686b8
+      internalID: -924933981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dde76ad9ba9db848b83b7f4afda2348
+      internalID: -862393351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37a0941c648ce64884e1a9c3d28de98
+      internalID: 1859886353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f4056695409ac4d8bc3f8776ab03e1
+      internalID: 477117966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e02c25f2a8f604d90a34d2fa942d0f
+      internalID: -1171836058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_28
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d46b219b7b6c0e48b4991d1a51833a0
+      internalID: 505337362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_29
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f18bcc550311884097d7dd7f42d141d
+      internalID: 1892016683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_30
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f3ed3cb9525094d91024fcda5b1cbe
+      internalID: 276895708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_31
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cb0cec12a1a48429850b13e221473c
+      internalID: -1157438855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0e117f24a8edd4c954962faa9bd43e
+      internalID: -227662348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec515a8c4a8f8634999dd59aea31a0e5
+      internalID: 666615993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb32e9bbb53aa68488b1333a9b0b67f6
+      internalID: -1628777052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 312
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2dd54ed66a10b4abef8b4f87d49873
+      internalID: 587313524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 312
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42c05cd0daf4d040984fd85117cd49f
+      internalID: -1228609098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 312
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8362359f5827a4eb8253f476dc2d01
+      internalID: 746043937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 312
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80cd64ef6815e34996384870089ab0a
+      internalID: 173091958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_39
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 312
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c732065aa0deb419a87470321e5a04
+      internalID: 1320112794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 312
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fc3f6786882a04caace5412d0c68b4
+      internalID: -1414046726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_41
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 312
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c6f7ad023d5d84292c70f8fea9e21f
+      internalID: -358139605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_42
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 312
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939b31d638f8c90499df5af4722e8243
+      internalID: 910601836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_43
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 312
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ff806a12ec1534cb4dfc7e2bfd9e06
+      internalID: 887564222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_44
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 312
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27c409a46a3fcc4b985a27b2cdf55f4
+      internalID: 705765890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_45
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 312
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0887d9a5e754974f957b1049c575d6f
+      internalID: -1644143423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 312
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef9e4f791af65045ade7d0faf730707
+      internalID: 2118393338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_47
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 312
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b1c8668ea240243bc270adbc24fbd9
+      internalID: -2097062930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 312
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d8943fd9f5cff47bb12e510aaaea76
+      internalID: 1816647884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_49
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 312
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2954601464ae6dd4aa66daed558bc815
+      internalID: 302810059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_50
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 312
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557e38d8a6cd8e54e80c7dcdcfe1db6a
+      internalID: 727732417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_51
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 312
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e815911cb03cb4eafb9f7f21866fc2
+      internalID: -1000394624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33a97c44d74efc48b7e804ba134c424
+      internalID: -325573552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_53
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 294
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20207bd3f04be2e48a5e3fc0dc6bb23c
+      internalID: -1049076056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_54
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 294
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b76eb937ff8f84cb374889bc6f4e94
+      internalID: -122418088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_55
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 294
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7422ac8ebfd3940b9f21cdc2d6ca95
+      internalID: 683244013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_56
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 294
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2797b6b606d064f947441b796154de
+      internalID: 966119352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_57
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 294
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b156db5fa06fb428ef521690e369e2
+      internalID: 788659433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca31e551cd95c44d8397bba2bcded1b
+      internalID: -416560537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_59
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 276
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41dda483214a5641b68a98bd7bbe1bd
+      internalID: 1918986705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_60
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 276
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d01f9adf824ad4ebf5af9c5896f07d
+      internalID: 1745589448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_61
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 276
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510867631971b3d4fa652c155e07d3c4
+      internalID: -336725882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_62
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 276
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e908c077d94bd9549b9a84d8713a892f
+      internalID: 1977633721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_63
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 276
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f56130d2ae0ea4d9f9b65da407a42a
+      internalID: 476127633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0a82fd54ee5b44f9a9efd773260a02
+      internalID: 1223546539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_65
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 258
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717609723cb6ed24c938c676952b47b7
+      internalID: 1124325277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_66
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 258
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7696904d5ad533546a8e75622a5e21ca
+      internalID: -290126590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_67
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 258
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ce781677a1d4247b76570344a4244b
+      internalID: 1715674278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_68
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 258
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e432b797717d0544a2ec70b15c71f33
+      internalID: 175481468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_69
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 258
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5572c1861ce9a544be3ecc45b2f4d35
+      internalID: 1958188897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_70
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 258
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf32fce61bedcd347b12dfd90acb0756
+      internalID: -1564295251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_71
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 258
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204df4b748848844187bdb81af061714
+      internalID: -650021727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_72
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 258
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9579826caa1a942857a12b37a618ca
+      internalID: -516446859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_73
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 258
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf11f8484fd2f004aa8603d9d7510aca
+      internalID: -1291355940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_74
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 258
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a08b7e72aaa15144b17129fedf58ab1
+      internalID: -2102334163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_75
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 258
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a209a66517c3e744ca777a9409b9d6d6
+      internalID: -1489808305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_76
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 258
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a7d201dcdfa374cbb96acb291277dc
+      internalID: 2062573536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_77
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 258
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d10740d17d2b1945a5c5f18a4332cab
+      internalID: -954092059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_78
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 258
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979a7606d4712f64f8f6fabfa47078b4
+      internalID: 195326033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10390536d82568743a82f9d3b6023b61
+      internalID: 77782700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_80
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11b164ddae80b541ad5d25f05e0e923
+      internalID: -1798639700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_81
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fd9bfbb615d8e4bb929fc9c80d91fb
+      internalID: -448711800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_82
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2172a96a9b9012a43bd13c4791212646
+      internalID: -1028084179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb17d8a39c3ca2418c9f0f5576c4043
+      internalID: -906257855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_84
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530a2efed8c2215418018a9c5a06604a
+      internalID: 1553095052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15656b4c4e320a44b997aa2247564200
+      internalID: -295704750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_86
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284b53ff7cfd9c94d95bbebac338ef5d
+      internalID: 1744757352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_87
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f314a6c725509d4a8c8a8afe03350f4
+      internalID: -1157577378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_88
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa74dd329c0b7b14a9f557cf244d79fa
+      internalID: -1840451430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_89
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dfa87c445bd15438ce9020febc821b
+      internalID: -1997437560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_90
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee30a6fa28b3e6498bf19446fe0fd75
+      internalID: -1234865061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e6bf7ec82b8454f9b322d2943a7418
+      internalID: -907851810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_92
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6f6e59adfbcec42b3bfe0b6a6bffa4
+      internalID: -2075844607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_93
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33632aceb3c04374298b00759e07dbf6
+      internalID: -1572367809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9092a68691ae74690a9e9ddd97268e
+      internalID: 1360094947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_95
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe67f61b28ff084280c7de96a68b04c
+      internalID: 440016118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_96
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092d47963a320794f9486d4346c74c64
+      internalID: 1436158412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_97
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e446194bc6bb81d4ba2fe631c753920e
+      internalID: 1067106265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_98
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403c5b8d78f4c994c8e2533bc8a8f2b5
+      internalID: -1394762669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_99
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eed9351765017b4199c2cbcb66e047c
+      internalID: -956432554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_100
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08704f7be8db98d41a5cdc72fc124925
+      internalID: -587614620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_101
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64f538d2c1f1fc4b9135f3bf2eb7997
+      internalID: 1505358844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_102
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d1e050793eaf44e93745fe64ad3a1e
+      internalID: -1100069648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_103
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6d5c0c3d30a4947bdfa539ded63a1b
+      internalID: -307490127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_104
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78f6525ef2190b4f90d8f07f5c98b62
+      internalID: 1671932238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_105
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f295d543c2acb408ad8fabbff27fee
+      internalID: 1302736247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_106
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a4a0dbb8fb4d14ea6c7c639c2c6fde
+      internalID: -1699289543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_107
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4286aeb320a76964fa863b0b89b22e96
+      internalID: -707598171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_108
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc6e5ffd6778e445ba14b4bba46c44f
+      internalID: -74040843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c071be2291bbf554ea397dd035729f10
+      internalID: -330689808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_110
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3bc6e45a2dd7e41a24292da99ecd9e
+      internalID: 676375060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_111
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e830643997b8843918c527475bdd9b
+      internalID: 1234519231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_112
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7c682f24432364389165479765f903
+      internalID: -1735128134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_113
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d75b6e94f09bb4ab631f0429406279
+      internalID: 169707724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_114
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad20b175217b3b4188fb8042c0086ff
+      internalID: 829021567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f1af5eda3a3c44fa825b0ba4aecf9b
+      internalID: -489300979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_116
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a5d3a5096a0c644940554c54c74bd9
+      internalID: -1690318273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_117
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36143377e5affa4195961dbacd90cc7
+      internalID: 721852716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_118
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b435e9cf0f8865a449a25d84215185d7
+      internalID: 1399690985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_119
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b11bacf2a52f64ea8ad049d1a6eb2f
+      internalID: 1477172404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_120
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6d7bb7725ab7b4f8e974064decec4b
+      internalID: 1862943189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a4a4f0025045842b477260e769719c
+      internalID: 1260643732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_122
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fb08cc0c103ac4cbc82e37ff442c00
+      internalID: -2096562566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_123
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39b07ea853ded3458008b561c81b8e5
+      internalID: -402737113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8983c9dd4067634a9adf57bfbd1bb2b
+      internalID: -1926729473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_125
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7414c38394d8414389791094a5aca2a
+      internalID: -1525701993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_126
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc1fc11832e3f845aaa44132522b144
+      internalID: 1718277517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_127
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62257ae826868b848a2c8ee18846b576
+      internalID: -192510292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_128
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab3271c0c0b67f4685623e40866d4b1
+      internalID: 672667981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_129
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81ee61c10a59b54fa4efd89e02b3bbb
+      internalID: 152037222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_130
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb3bf5263bbf874385310bbcf9341b8
+      internalID: 979901757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_131
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fe13fb4cb2cff47b8c5f29d26ef094
+      internalID: 17767622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_132
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbddc26e0504d042921b308280ce18d
+      internalID: -336877861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_133
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd616ddc9830c94ba6d233fb44866d4
+      internalID: -671687829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_134
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c534fd67e4a51741b4486235985feeb
+      internalID: -1659403875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_135
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8389bf8c03e8cab43b49966f092ce9e3
+      internalID: 144496431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_136
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68547a2cdc75580448e7c25934ee57db
+      internalID: -337474300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_137
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad64957bf72de144957ab214c88f16a
+      internalID: 1465970014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_138
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 186
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6cd8774e8e5ff428c30fe6bfe5c033
+      internalID: 997091687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8177e7cbadb4a3044824f9f372e5612d
+      internalID: 583664321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_140
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e68d695d23e07429fecf258f12d74d
+      internalID: -1991231165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_141
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec69a27d4e551547be7b82a37327f55
+      internalID: 1803104222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_142
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75b1925e658e8a4492911aca5db6520
+      internalID: 660632588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_143
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75540169b574e5049bdb534fa1c46855
+      internalID: 1661548079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_144
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd99d528ee45da341aa54f5a6ed04d32
+      internalID: -1902542070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_145
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42713c38b415ee449e92be3f066a3ac
+      internalID: 617868431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_146
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8341d0b2738e0146943eb7f30ffdbec
+      internalID: 1490407020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_147
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd3bd644b62f964caf7eb6d71237cc8
+      internalID: -751319757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_148
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c88b78094e7d544d8093b56e1162fff
+      internalID: -1071550676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_149
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a45da4a94515d847bc6db0a2b8290b1
+      internalID: 1537031937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_150
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac15a288e653fd4abb892feb4973a9d
+      internalID: 585906888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_151
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f23b7696badf2142ab50c8855cbb00e
+      internalID: -1773155152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_152
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61daa0fa40d9a5d4cba17f370644bbab
+      internalID: 2027534710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_153
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ffe5cc958682541b523411253fe7a2
+      internalID: 1385478794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_154
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1704b4b37766b14887c704839c95a10
+      internalID: -1211330671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_155
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578ac8479453fb741b9b79797e6e30f5
+      internalID: 676305714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_156
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d1f0fae98033b498249017789a01e8
+      internalID: -1387417523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_157
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d40047d3d882c42b4ae5bd7330031a
+      internalID: -449465540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_158
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4117c06c55e924781145dfd112cb13
+      internalID: 1231889313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_159
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cae02cc566ab54caebb79cafb98da2
+      internalID: -1895597940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_160
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fc491e30f121c43bde78897076c8f2
+      internalID: -256579234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_161
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2131435f828d45a4fb4a9b659ffbb32d
+      internalID: -1388846760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192749511d7677146ab6de1db1bcbf19
+      internalID: -1276484887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_163
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ba4277ff120e64e8f19bc7a05a40bf
+      internalID: -1974921291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_164
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aafc9e4990d4045b4fdfb1c4cc8daf
+      internalID: 392126335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_165
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0352a971e5fc35446914bd46eef9e6cb
+      internalID: -650124242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_166
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2532cb6e0ccf9047871cc80bd005126
+      internalID: -1797019465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_167
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d697fcd875195438d5e2f3d37179db
+      internalID: 624705054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_168
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b59d634d1734f4fa72090828f283e6
+      internalID: 105371558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_169
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4b4f0a2ef68864794ce9664682ed9e
+      internalID: -652764865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_170
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0eef790e329674e90719d266ae2c11
+      internalID: 342024171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_171
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323efccd761183940a01a2d472788046
+      internalID: 385768999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_172
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f440b82ffd2e84caa324b742416da7
+      internalID: 2016511143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_173
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c131c3606bb4eb45a42039cf85e7da9
+      internalID: 791981464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_174
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4c1c620bad4924f94b21c50f56940e
+      internalID: 1584406181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_175
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285dca5b19f3b0a458dc069c96397fee
+      internalID: 858626667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_176
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 132
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969c6860f9c194c4580dca92d5c506c0
+      internalID: -916875450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_177
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a30589762cd6894f9189b515595b818
+      internalID: -849867899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_178
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c791322cd9377042aaee6cbcaf329b1
+      internalID: -820658027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_179
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4244f2549136e2468e5958d0c4c408a
+      internalID: 1244812041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_180
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fa9be44dcfbe54f81763ddfb60694a
+      internalID: 569322867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_181
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013cd05581186c84e9ef56205da20fd4
+      internalID: -898056469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_182
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139f4d4d3434ef64fa4fa07dc763cae5
+      internalID: -1193413495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_183
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc604dfdfd23f634c8b4e258009b068b
+      internalID: -693901265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_184
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc469ad59b52b4648b3075f31c0b9887
+      internalID: 1322084943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_185
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a277dc8a6b4884a98813e1ec0ad4f9
+      internalID: 1813047536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_186
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1049fabd3930404ca10aafd0c0eea47
+      internalID: 547513603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_187
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f73bd7ae46f684a988b835e198e576
+      internalID: 733976201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_188
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5c32fe14ac29b458c3fbc554fa3c6c
+      internalID: -1870129157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_189
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26829102a2ff8704b8472baeba372e1c
+      internalID: 1461908596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_190
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0671058188ae2f348ab849b1a0c151c7
+      internalID: 1829510250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_191
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558f34a39e3489849bd726af862156ab
+      internalID: 172834565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34aed7b22da3094e9dc978bfa6ddb75
+      internalID: 17722818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_193
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 96
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0701263ffcdc40a479c9b964388277b6
+      internalID: -925987945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_194
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 96
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5510dd7ef6b5b4ea60735d6ab546ce
+      internalID: -1403349777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_195
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 96
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc006fc4b030ba64d83ce945f683fcf3
+      internalID: -1075151794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_196
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552e399fef0a68f41b8c2d00bd39c16e
+      internalID: 790505457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_197
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 96
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754c4c4f884441c4aa65151e12309a2b
+      internalID: -1377855000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_198
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71512f4a45b615443829609e609a58ef
+      internalID: 720140598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_199
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 96
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9580bef989f2a4f9fdbb33c1fdb484
+      internalID: 163947851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_200
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 96
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfd1abca6b39144593a808f15fe4f7b
+      internalID: 963180247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_201
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 78
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f21611b3934ca4b946a7877ec3155d
+      internalID: -1286052978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_202
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 78
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb9cb241ab25694c972138056cc9e01
+      internalID: -1192847582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_203
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 78
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4383eb4f8c7374da287e6bafd7565a
+      internalID: -163113794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_204
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 78
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3910e255a20a5dc42a2f4bffc9326e81
+      internalID: -261026237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_205
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 78
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5ce07f73eb08845a617bcde4de666d
+      internalID: 1838744683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_206
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 78
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8257a8d957fe214c92fe990c5721d45
+      internalID: 1684122405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_207
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 78
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde063d63794b3a4686e847937eabd7a
+      internalID: -725659875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_208
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bdcb7fc09b92946ac94754184b5331
+      internalID: -763936888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_209
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 60
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c5ea0821074574694b3b56d1407590
+      internalID: -1701421258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_210
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 60
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c24522b17a21c4c9ef32fc8d85745c
+      internalID: -575236668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_211
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 60
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e73aaf24bae2946b639669219d008b
+      internalID: -1476348908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_212
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 60
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494d78fdb932f9349b2505321064fc5e
+      internalID: 2023334307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_213
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 60
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e13fa52353feb2489177f4092102031
+      internalID: -1336546555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_214
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 60
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe118b11854dc444c9c6a2528580a430
+      internalID: -1220842337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_215
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 42
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c28e25b13387434080101e6d0c40c1e
+      internalID: 1848449036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_216
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 42
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e022f043de6bc04c9521629549dcd30
+      internalID: -1666113987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_217
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 42
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bd7b02250adea47b24abe0d1344043
+      internalID: 1617180470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_218
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 42
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e13a93936e29e4597a0d1b9e1c5d9c
+      internalID: -1320554965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_219
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 42
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfe62105cfbdaa449758b830b1310a9
+      internalID: 1415848520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_220
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 42
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3533a6e23555c4589b66478e93c4a4
+      internalID: 1808225044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_221
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190fc0a642462aa47b1f2a8e7470042f
+      internalID: 1178667565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_222
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195c877d59138a4458e3f3c65cb0c973
+      internalID: -343533300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_223
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87b463accd867240a865c7d0d25a829
+      internalID: -2059053510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_224
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57107405ddce7f4438e8f4fbf5276ba1
+      internalID: -1200912916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_225
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31eba82245973643b6752ec4267990f
+      internalID: 930404358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cottage_Hedge_recolor_226
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38013aed39b5e3848a801fdd83ed99fa
+      internalID: -1191284188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cottage_Hedge_recolor_49: 302810059
+      Cottage_Hedge_recolor_223: -2059053510
+      Cottage_Hedge_recolor_209: -1701421258
+      Cottage_Hedge_recolor_6: -148530860
+      Cottage_Hedge_recolor_110: 676375060
+      Cottage_Hedge_recolor_15: 213532222
+      Cottage_Hedge_recolor_139: 583664321
+      Cottage_Hedge_recolor_143: 1661548079
+      Cottage_Hedge_recolor_7: -599397218
+      Cottage_Hedge_recolor_31: -1157438855
+      Cottage_Hedge_recolor_30: 276895708
+      Cottage_Hedge_recolor_101: 1505358844
+      Cottage_Hedge_recolor_24: -862393351
+      Cottage_Hedge_recolor_50: 727732417
+      Cottage_Hedge_recolor_204: -261026237
+      Cottage_Hedge_recolor_150: 585906888
+      Cottage_Hedge_recolor_64: 1223546539
+      Cottage_Hedge_recolor_26: 477117966
+      Cottage_Hedge_recolor_141: 1803104222
+      Cottage_Hedge_recolor_84: 1553095052
+      Cottage_Hedge_recolor_42: 910601836
+      Cottage_Hedge_recolor_81: -448711800
+      Cottage_Hedge_recolor_13: 2028839410
+      Cottage_Hedge_recolor_196: 790505457
+      Cottage_Hedge_recolor_155: 676305714
+      Cottage_Hedge_recolor_86: 1744757352
+      Cottage_Hedge_recolor_12: -1431088832
+      Cottage_Hedge_recolor_216: -1666113987
+      Cottage_Hedge_recolor_51: -1000394624
+      Cottage_Hedge_recolor_195: -1075151794
+      Cottage_Hedge_recolor_147: -751319757
+      Cottage_Hedge_recolor_173: 791981464
+      Cottage_Hedge_recolor_218: -1320554965
+      Cottage_Hedge_recolor_175: 858626667
+      Cottage_Hedge_recolor_135: 144496431
+      Cottage_Hedge_recolor_72: -516446859
+      Cottage_Hedge_recolor_91: -907851810
+      Cottage_Hedge_recolor_108: -74040843
+      Cottage_Hedge_recolor_213: -1336546555
+      Cottage_Hedge_recolor_62: 1977633721
+      Cottage_Hedge_recolor_40: -1414046726
+      Cottage_Hedge_recolor_37: 746043937
+      Cottage_Hedge_recolor_56: 966119352
+      Cottage_Hedge_recolor_82: -1028084179
+      Cottage_Hedge_recolor_164: 392126335
+      Cottage_Hedge_recolor_35: 587313524
+      Cottage_Hedge_recolor_124: -1926729473
+      Cottage_Hedge_recolor_226: -1191284188
+      Cottage_Hedge_recolor_137: 1465970014
+      Cottage_Hedge_recolor_79: 77782700
+      Cottage_Hedge_recolor_32: -227662348
+      Cottage_Hedge_recolor_211: -1476348908
+      Cottage_Hedge_recolor_60: 1745589448
+      Cottage_Hedge_recolor_224: -1200912916
+      Cottage_Hedge_recolor_208: -763936888
+      Cottage_Hedge_recolor_69: 1958188897
+      Cottage_Hedge_recolor_130: 979901757
+      Cottage_Hedge_recolor_207: -725659875
+      Cottage_Hedge_recolor_100: -587614620
+      Cottage_Hedge_recolor_116: -1690318273
+      Cottage_Hedge_recolor_33: 666615993
+      Cottage_Hedge_recolor_90: -1234865061
+      Cottage_Hedge_recolor_215: 1848449036
+      Cottage_Hedge_recolor_34: -1628777052
+      Cottage_Hedge_recolor_126: 1718277517
+      Cottage_Hedge_recolor_159: -1895597940
+      Cottage_Hedge_recolor_201: -1286052978
+      Cottage_Hedge_recolor_165: -650124242
+      Cottage_Hedge_recolor_206: 1684122405
+      Cottage_Hedge_recolor_220: 1808225044
+      Cottage_Hedge_recolor_114: 829021567
+      Cottage_Hedge_recolor_16: 307823928
+      Cottage_Hedge_recolor_1: 1672408117
+      Cottage_Hedge_recolor_144: -1902542070
+      Cottage_Hedge_recolor_117: 721852716
+      Cottage_Hedge_recolor_115: -489300979
+      Cottage_Hedge_recolor_203: -163113794
+      Cottage_Hedge_recolor_46: 2118393338
+      Cottage_Hedge_recolor_14: -363641767
+      Cottage_Hedge_recolor_38: 173091958
+      Cottage_Hedge_recolor_194: -1403349777
+      Cottage_Hedge_recolor_53: -1049076056
+      Cottage_Hedge_recolor_87: -1157577378
+      Cottage_Hedge_recolor_180: 569322867
+      Cottage_Hedge_recolor_120: 1862943189
+      Cottage_Hedge_recolor_41: -358139605
+      Cottage_Hedge_recolor_63: 476127633
+      Cottage_Hedge_recolor_77: -954092059
+      Cottage_Hedge_recolor_181: -898056469
+      Cottage_Hedge_recolor_192: 17722818
+      Cottage_Hedge_recolor_98: -1394762669
+      Cottage_Hedge_recolor_121: 1260643732
+      Cottage_Hedge_recolor_197: -1377855000
+      Cottage_Hedge_recolor_95: 440016118
+      Cottage_Hedge_recolor_123: -402737113
+      Cottage_Hedge_recolor_136: -337474300
+      Cottage_Hedge_recolor_162: -1276484887
+      Cottage_Hedge_recolor_99: -956432554
+      Cottage_Hedge_recolor_179: 1244812041
+      Cottage_Hedge_recolor_189: 1461908596
+      Cottage_Hedge_recolor_161: -1388846760
+      Cottage_Hedge_recolor_128: 672667981
+      Cottage_Hedge_recolor_188: -1870129157
+      Cottage_Hedge_recolor_17: -1902251398
+      Cottage_Hedge_recolor_133: -671687829
+      Cottage_Hedge_recolor_10: -1181235558
+      Cottage_Hedge_recolor_210: -575236668
+      Cottage_Hedge_recolor_145: 617868431
+      Cottage_Hedge_recolor_105: 1302736247
+      Cottage_Hedge_recolor_177: -849867899
+      Cottage_Hedge_recolor_47: -2097062930
+      Cottage_Hedge_recolor_148: -1071550676
+      Cottage_Hedge_recolor_85: -295704750
+      Cottage_Hedge_recolor_119: 1477172404
+      Cottage_Hedge_recolor_70: -1564295251
+      Cottage_Hedge_recolor_217: 1617180470
+      Cottage_Hedge_recolor_156: -1387417523
+      Cottage_Hedge_recolor_28: 505337362
+      Cottage_Hedge_recolor_89: -1997437560
+      Cottage_Hedge_recolor_23: -924933981
+      Cottage_Hedge_recolor_48: 1816647884
+      Cottage_Hedge_recolor_52: -325573552
+      Cottage_Hedge_recolor_142: 660632588
+      Cottage_Hedge_recolor_104: 1671932238
+      Cottage_Hedge_recolor_154: -1211330671
+      Cottage_Hedge_recolor_129: 152037222
+      Cottage_Hedge_recolor_168: 105371558
+      Cottage_Hedge_recolor_169: -652764865
+      Cottage_Hedge_recolor_185: 1813047536
+      Cottage_Hedge_recolor_102: -1100069648
+      Cottage_Hedge_recolor_138: 997091687
+      Cottage_Hedge_recolor_205: 1838744683
+      Cottage_Hedge_recolor_21: 626159155
+      Cottage_Hedge_recolor_61: -336725882
+      Cottage_Hedge_recolor_97: 1067106265
+      Cottage_Hedge_recolor_187: 733976201
+      Cottage_Hedge_recolor_36: -1228609098
+      Cottage_Hedge_recolor_25: 1859886353
+      Cottage_Hedge_recolor_43: 887564222
+      Cottage_Hedge_recolor_153: 1385478794
+      Cottage_Hedge_recolor_157: -449465540
+      Cottage_Hedge_recolor_22: -2072053184
+      Cottage_Hedge_recolor_73: -1291355940
+      Cottage_Hedge_recolor_80: -1798639700
+      Cottage_Hedge_recolor_151: -1773155152
+      Cottage_Hedge_recolor_96: 1436158412
+      Cottage_Hedge_recolor_18: 241859448
+      Cottage_Hedge_recolor_152: 2027534710
+      Cottage_Hedge_recolor_167: 624705054
+      Cottage_Hedge_recolor_183: -693901265
+      Cottage_Hedge_recolor_106: -1699289543
+      Cottage_Hedge_recolor_0: 588555325
+      Cottage_Hedge_recolor_54: -122418088
+      Cottage_Hedge_recolor_191: 172834565
+      Cottage_Hedge_recolor_58: -416560537
+      Cottage_Hedge_recolor_9: 2147202299
+      Cottage_Hedge_recolor_44: 705765890
+      Cottage_Hedge_recolor_27: -1171836058
+      Cottage_Hedge_recolor_131: 17767622
+      Cottage_Hedge_recolor_166: -1797019465
+      Cottage_Hedge_recolor_171: 385768999
+      Cottage_Hedge_recolor_212: 2023334307
+      Cottage_Hedge_recolor_193: -925987945
+      Cottage_Hedge_recolor_178: -820658027
+      Cottage_Hedge_recolor_83: -906257855
+      Cottage_Hedge_recolor_78: 195326033
+      Cottage_Hedge_recolor_3: 881970188
+      Cottage_Hedge_recolor_5: 360689363
+      Cottage_Hedge_recolor_93: -1572367809
+      Cottage_Hedge_recolor_103: -307490127
+      Cottage_Hedge_recolor_176: -916875450
+      Cottage_Hedge_recolor_111: 1234519231
+      Cottage_Hedge_recolor_158: 1231889313
+      Cottage_Hedge_recolor_199: 163947851
+      Cottage_Hedge_recolor_140: -1991231165
+      Cottage_Hedge_recolor_219: 1415848520
+      Cottage_Hedge_recolor_4: -737302758
+      Cottage_Hedge_recolor_184: 1322084943
+      Cottage_Hedge_recolor_59: 1918986705
+      Cottage_Hedge_recolor_134: -1659403875
+      Cottage_Hedge_recolor_107: -707598171
+      Cottage_Hedge_recolor_202: -1192847582
+      Cottage_Hedge_recolor_225: 930404358
+      Cottage_Hedge_recolor_57: 788659433
+      Cottage_Hedge_recolor_198: 720140598
+      Cottage_Hedge_recolor_11: 812988686
+      Cottage_Hedge_recolor_19: -336185286
+      Cottage_Hedge_recolor_88: -1840451430
+      Cottage_Hedge_recolor_174: 1584406181
+      Cottage_Hedge_recolor_214: -1220842337
+      Cottage_Hedge_recolor_222: -343533300
+      Cottage_Hedge_recolor_200: 963180247
+      Cottage_Hedge_recolor_146: 1490407020
+      Cottage_Hedge_recolor_182: -1193413495
+      Cottage_Hedge_recolor_221: 1178667565
+      Cottage_Hedge_recolor_190: 1829510250
+      Cottage_Hedge_recolor_29: 1892016683
+      Cottage_Hedge_recolor_122: -2096562566
+      Cottage_Hedge_recolor_125: -1525701993
+      Cottage_Hedge_recolor_109: -330689808
+      Cottage_Hedge_recolor_76: 2062573536
+      Cottage_Hedge_recolor_113: 169707724
+      Cottage_Hedge_recolor_75: -1489808305
+      Cottage_Hedge_recolor_132: -336877861
+      Cottage_Hedge_recolor_163: -1974921291
+      Cottage_Hedge_recolor_172: 2016511143
+      Cottage_Hedge_recolor_118: 1399690985
+      Cottage_Hedge_recolor_45: -1644143423
+      Cottage_Hedge_recolor_55: 683244013
+      Cottage_Hedge_recolor_65: 1124325277
+      Cottage_Hedge_recolor_112: -1735128134
+      Cottage_Hedge_recolor_94: 1360094947
+      Cottage_Hedge_recolor_149: 1537031937
+      Cottage_Hedge_recolor_170: 342024171
+      Cottage_Hedge_recolor_8: -256425020
+      Cottage_Hedge_recolor_92: -2075844607
+      Cottage_Hedge_recolor_186: 547513603
+      Cottage_Hedge_recolor_67: 1715674278
+      Cottage_Hedge_recolor_20: 16935825
+      Cottage_Hedge_recolor_66: -290126590
+      Cottage_Hedge_recolor_71: -650021727
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
