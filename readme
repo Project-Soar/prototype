@@ -1,7 +1,7 @@
 Project name : Filecoin_Moralis_FarmingRpg
 About the project : A comfy farming rpg game where players can farm relax and mint nfts,inspired from Harvest moon and stardew valley. At current stage players can mint only crystal carrot nft, but their is no contraints on attributes(had some bugs during referencing, discussed below). 
 
-#Moralis: used for : uploading data to IPFS and interaction with smartcontract within unity.
+#Moralis: used for uploading data to IPFS and interaction with smartcontract within unity.
 
 #IPFS Player can directly upload metadata to IPFS, which is used by NFT smart contract to mint NFT this give player control over the game nft attributes.
 
