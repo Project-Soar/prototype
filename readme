@@ -1,5 +1,5 @@
 Project name : Filecoin_Moralis_FarmingRpg
-About the project : the following project is inspired from Harvest moon and stardew valley , for this hackathon basic functionality is added with a good gaming experience.
+About the project : A comfy farming rpg game where players can farm relax and mint nfts,inspired from Harvest moon and stardew valley. At current stage players can mint only crystal carrot nft, but their is no contraints on attributes(had some bugs during referencing, discussed below). 
 
 #Moralis: used for : uploading data to IPFS and interaction with smartcontract within unity.
 
@@ -8,7 +8,19 @@ About the project : the following project is inspired from Harvest moon and star
 #Valist Native build(rar) Publish link(mumbai testnet) 
  https://app.valist.io/kar/farming_rpg_moralis
 
-#Polygon Matic SmartContract Address 0x1Dab8027E30c923F80A51063C2F9430A828feE15
+#Polygon Matic SmartContract Address 
+
+0x1Dab8027E30c923F80A51063C2F9430A828feE15
 
 
 All web3 scripts and prefabs is inside "Assest/Scripts/Web3" folder
+
+
+Bug report*
+
+1 Inventory will get empty between moving game scene and nft minter scene. 
+Will not be affected when moving between other game scenes. 
+
+2 Crystal and carrot count (in inventorymanager script) referenced variable had some problem they sometime increase the count when picking other items, So had to remove it from addattribute script, to form a condition to put attributes value. 
+
+The pitch video is not great just a gameplay video , sorry for that, didn't had time to edit it. 
