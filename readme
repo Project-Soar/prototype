@@ -26,3 +26,5 @@ Will not be affected when moving between other game scenes.
 2 Crystal and carrot count (in inventorymanager script) referenced variable had some problem they sometime increase the count when picking other items, So had to remove it from addattribute script, to form a condition to put attributes value. 
 
 The pitch video is not great just a gameplay video , sorry for that, didn't had time to edit it. 
+
+All asset (excluding house sprits and crop resources) are downloaded from itch, they are under creative common license 0.
