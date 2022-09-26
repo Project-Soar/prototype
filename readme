@@ -20,10 +20,10 @@ All web3 scripts and prefabs is inside "Assest/Scripts/Web3" folder
 
 Bug report*
 
-1 Inventory will get empty between moving game scene and nft minter scene. 
+1 Inventory will get empty upon moving between game scene and nft minter scene. 
 Will not be affected when moving between other game scenes. 
 
-2 Crystal and carrot count (in inventorymanager script) referenced variable had some problem they sometime increase the count when picking other items, So had to remove it from addattribute script, to form a condition to put attributes value. 
+2 Crystal and carrot count (in inventorymanager script) referenced variable had some problem, they sometime addsup when picking other items, So had to remove it from addattribute script, so there is no condition or constraints on minting nft(you can mint any amount of test nft) . Will fix it after hackathon. 
 
 The pitch video is not great just a gameplay video , sorry for that, didn't had time to edit it. 
 
