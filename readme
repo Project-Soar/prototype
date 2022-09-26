@@ -5,9 +5,9 @@ About the project : A comfy farming rpg game where players can farm relax and mi
 
 #Moralis: used for uploading data to IPFS and interaction with smartcontract within unity.
 
-#IPFS Player can directly upload metadata to IPFS, which is used by NFT smart contract to mint NFT this give player control over the game nft attributes.
+#IPFS: Player can directly upload metadata to IPFS, which is used by NFT smart contract to mint NFT this give player control over the game nft attributes.
 
-#Valist Native build(rar) Publish link(mumbai testnet)[*please be conntected to testnet, project not appearing in mainnet network]
+#Valist : Native build(rar) Publish link(mumbai testnet)[*please be conntected to testnet, project not appearing when connected to mainnet network ]
  https://app.valist.io/kar/farming_rpg_moralis
 
 #Polygon Matic SmartContract Address 
